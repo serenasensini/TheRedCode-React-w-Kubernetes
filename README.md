@@ -22,4 +22,5 @@ Lancia il comando:
 `kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 `
+
 Apri il browser all'indirizzo _http://localhost:3000_, et voilà!
